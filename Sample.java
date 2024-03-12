@@ -7,6 +7,13 @@ class Sample {
     
     int sum = first + second;
 
+    int mul = first * second;
+
+    
+    System.out.println(sum);
+    System.out,println(mul);
+
+
     int Div = first / second;
     
     System.out.println(sum);
